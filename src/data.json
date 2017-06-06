@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Создать список на vue.js",
+    "isComplete": false
+  },
+  {
+    "id": 2,
+    "name": "Добавить возможность создавать новые задачи",
+    "isComplete": false
+  },
+  {
+    "id": 3,
+    "name": "Сделать возможным обновление записи",
+    "isComplete": false
+  },
+  {
+    "id": 4,
+    "name": "И надо чтоб можно было удалить",
+    "isComplete": false
+  },
+  {
+    "id": 5,
+    "name": "Купить мороженку:)",
+    "isComplete": false
+  }
+]
